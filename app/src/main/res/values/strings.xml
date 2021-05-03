@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UIDevCodes</string>
+    <string name="actorName">John Doe</string>
+    <string name="actorAddress">36 Av. N Rue Muguet</string>
+</resources>
